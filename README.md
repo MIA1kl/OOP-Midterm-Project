@@ -1,6 +1,6 @@
 # OOP-Midterm-Project
 
-![alt text](images\https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png)
+![alt text](https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png)
 
 # [Tetris Game for Midterm Exam]
 
@@ -11,7 +11,7 @@ The movement of the blocks is provided by pressing the arrow keys (right and lef
 
 ## At the picture below we can see the came window with figures and score:
 
-![alt text](https://github.com/MIA1kl/OOP_Midterm_Project/blob/main/2020-11-04_23-38-27%20(3).png?raw=true)
+![alt text](images/https://github.com/MIA1kl/OOP_Midterm_Project/blob/main/2020-11-04_23-38-27%20(3).png?raw=true)
 
 ## When the figures reach the top of the window, the game stops. 
 
