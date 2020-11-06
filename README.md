@@ -11,11 +11,11 @@ The movement of the blocks is provided by pressing the arrow keys (right and lef
 
 ## At the picture below we can see the came window with figures and score:
 
-![alt text](images/https://github.com/MIA1kl/OOP_Midterm_Project/blob/main/2020-11-04_23-38-27%20(3).png?raw=true)
+![alt text](https://github.com/MIA1kl/OOP-Midterm-Project/blob/main/images/2020-11-04_23-38-27%20(3).png)
 
 ## When the figures reach the top of the window, the game stops. 
 
-![alt text](https://github.com/MIA1kl/OOP_Midterm_Project/blob/main/2020-11-04_23-41-12.png?raw=true)
+![alt text](https://github.com/MIA1kl/OOP-Midterm-Project/blob/main/images/2020-11-04_23-41-12.png)
 
 # Following requirements step by step
 
@@ -23,19 +23,19 @@ The movement of the blocks is provided by pressing the arrow keys (right and lef
 
 Write:
 
-![alt text](https://github.com/MIA1kl/OOP_Midterm_Project/blob/main/2020-11-06_20-56-56.png?raw=true)
+![alt text](https://github.com/MIA1kl/OOP-Midterm-Project/blob/main/images/2020-11-06_20-56-56.png)
 
 Read: 
 
-![alt text](https://github.com/MIA1kl/OOP_Midterm_Project/blob/main/2020-11-06_20-57-20.png?raw=true)
+![alt text](https://github.com/MIA1kl/OOP-Midterm-Project/blob/main/images/2020-11-06_20-57-20.png)
 
 ## Have JUnit tests (4 tests for max points):
 
-![alt text](https://github.com/MIA1kl/OOP_Midterm_Project/blob/main/2020-11-06_20-59-41.png?raw=true)
+![alt text](https://github.com/MIA1kl/OOP-Midterm-Project/blob/main/images/2020-11-06_20-59-41.png)
 
 ## The UML Diagram with classes dependencies is shown below:
 
-![alt text](https://github.com/MIA1kl/OOP_Midterm_Project/blob/main/2020-11-04_23-36-48.png?raw=true)
+![alt text](https://github.com/MIA1kl/OOP-Midterm-Project/blob/main/images/2020-11-04_23-36-48.png)
 
 ## Bonus for JAR packed file:
 
