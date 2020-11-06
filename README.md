@@ -39,5 +39,5 @@ Read:
 
 ## Bonus for JAR packed file:
 
-Jar file is in TetrisProject folder
+Jar file : TetrisProject/Qwerty.jar
 
